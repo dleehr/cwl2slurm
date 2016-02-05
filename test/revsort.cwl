@@ -3,7 +3,7 @@
 #
 class: Workflow
 description: "Reverse the lines in a document, then sort those lines."
-cwlVersion: "cwl:draft-3.dev1"
+cwlVersion: "cwl:draft-3.dev2"
 
 # The inputs array defines the structure of the input object that describes
 # the inputs to the workflow.
